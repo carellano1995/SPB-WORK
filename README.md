@@ -1,5 +1,5 @@
 # spring-boot-workshop
-## Taller para iniciarse con el framework de Spring
+## Aprendiendo Spring Framework de Java con manzanitas
 En este taller se realiza un CRUD de equipos y judadores, lo que significa que podremos crear, editar, leer y eliminar tanto jugadores como equipos.
 
 ![Image of SPRING LOGO](https://i2.wp.com/chrouki.com/wp-content/uploads/2018/01/spring-boot.png?resize=716%2C205)
