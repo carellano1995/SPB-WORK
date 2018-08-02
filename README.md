@@ -1,5 +1,5 @@
 # spring-boot-workshop
-## Taller para iniciarse con el framework de Spring de java
+## Taller para iniciarse con el framework de Spring
 ![Image of SPRING LOGO](https://i2.wp.com/chrouki.com/wp-content/uploads/2018/01/spring-boot.png?resize=716%2C205)
 
 ### Requisitos
