@@ -5,7 +5,7 @@ En este taller se realiza un CRUD de equipos y judadores, lo que significa que p
 ![Image of SPRING LOGO](https://i2.wp.com/chrouki.com/wp-content/uploads/2018/01/spring-boot.png?resize=716%2C205)
 
 ## Requisitos
-Tener instalado y configurado lo siguiente
+Tener instalado y configurado lo siguiente:
 * Maven
 * mysql
 * Java 8
