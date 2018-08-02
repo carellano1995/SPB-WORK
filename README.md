@@ -7,7 +7,8 @@ En este taller se realiza un CRUD de equipos y judadores, lo que significa que p
 ## Requisitos
 Tener instalado y configurado lo siguiente:
 * Maven
-* mysql
+* GIT
+* Mysql
 * Java 8
 * STS [STS Download](https://spring.io/tools/sts/all)
 * Configurar Variables de entorno: 
