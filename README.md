@@ -10,6 +10,7 @@ Tener instalado y configurado lo siguiente:
 * GIT
 * Mysql
 * Java 8
+* Postman
 * STS [STS Download](https://spring.io/tools/sts/all)
 * Configurar Variables de entorno: 
   * Java (JAVA_HOME)
