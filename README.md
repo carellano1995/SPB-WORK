@@ -27,7 +27,7 @@ Crearemos nuestro primer hola mundo usando spring.
 #### CRUD-WITH-REPOSITORY-SPRING-WORKSHOP:
 Realizaremos un crud utilizando directamente el repositorio.
 
-#### CRUD-WITH-SERCVICES-SPRING-WORKSHOP:
+#### CRUD-WITH-SERVICES-SPRING-WORKSHOP:
 Realizaremos un crud utilizando servicios.
 
 #### COMPLETE-SPRING-WORKSHOP
