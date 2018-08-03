@@ -11,6 +11,7 @@ Tener instalado y configurado lo siguiente:
 * Mysql
 * Postman
 * Java 8
+* Postman
 * STS [STS Download](https://spring.io/tools/sts/all)
 * Configurar Variables de entorno: 
   * Java (JAVA_HOME)
@@ -28,7 +29,7 @@ Crearemos nuestro primer hola mundo usando spring.
 #### CRUD-WITH-REPOSITORY-SPRING-WORKSHOP:
 Realizaremos un crud utilizando directamente el repositorio.
 
-#### CRUD-WITH-SERCVICES-SPRING-WORKSHOP:
+#### CRUD-WITH-SERVICES-SPRING-WORKSHOP:
 Realizaremos un crud utilizando servicios.
 
 #### COMPLETE-SPRING-WORKSHOP:
