@@ -31,7 +31,7 @@ Realizaremos un crud utilizando directamente el repositorio.
 #### CRUD-WITH-SERCVICES-SPRING-WORKSHOP:
 Realizaremos un crud utilizando servicios.
 
-#### COMPLETE-SPRING-WORKSHOP
+#### COMPLETE-SPRING-WORKSHOP:
 Taller completo con CRUD de equipos y jugadores.
 
 
