@@ -9,7 +9,6 @@ Tener instalado y configurado lo siguiente:
 * Maven
 * GIT
 * Mysql
-* Postman
 * Java 8
 * Postman
 * STS [STS Download](https://spring.io/tools/sts/all)
