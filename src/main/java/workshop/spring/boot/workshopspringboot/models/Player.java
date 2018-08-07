@@ -10,6 +10,8 @@ import javax.validation.constraints.NotNull;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonProperty.Access;
 
+import workshop.spring.boot.workshopspringboot.validations.ValidRut;
+
 @Entity
 public class Player {
 
@@ -17,12 +19,23 @@ public class Player {
 	@GeneratedValue
 	private Integer id;
 
+	@ValidRut
+	private String rut;
+
 	@NotNull
 	private String name;
 
 	@ManyToOne(fetch = FetchType.LAZY)
 	@JsonProperty(access = Access.WRITE_ONLY)
 	private Team team;
+
+	public String getRut() {
+		return rut;
+	}
+
+	public void setRut(String rut) {
+		this.rut = rut;
+	}
 
 	public Integer getId() {
 		return id;
@@ -50,7 +63,7 @@ public class Player {
 
 	@Override
 	public String toString() {
-		return "Player [id=" + id + ", name=" + name + ", team=" + team + "]";
+		return "Player [id=" + id + ", rut=" + rut + ", name=" + name + ", team=" + team + "]";
 	}
 
 }
